@@ -13260,4 +13260,12 @@ img {
   border-color: #01A4A5;
 }
 
+body {
+  background-color: #F5F5DC !important;
+}
+
+.home {
+  background-color: #F5F5DC !important;
+}
+
 /*# sourceMappingURL=main.css.map*/

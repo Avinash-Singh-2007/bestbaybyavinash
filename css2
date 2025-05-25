@@ -103,3 +103,7 @@
   font-display: swap;
   src: url(s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf) format('truetype');
 }
+
+body {
+  background-color: #f0f0f0;
+}
